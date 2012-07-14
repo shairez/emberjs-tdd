@@ -33,7 +33,7 @@ require(["views/LoginView"], function(LoginView){
 				expect(loginView.$("input.userInput").length).toEqual(1);
 			});
 			
-			it("Should bind the email to the user.email", function(){
+			it("Should bind the name to the user.name", function(){
 				Ember.run(function(){
 					loginView.set("user", Em.Object.create({name:"mockValue"}));
 				});
