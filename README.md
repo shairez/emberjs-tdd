@@ -1,12 +1,9 @@
-Ember.js TDD / BDD example project
+Ember.js TDD / BDD example project [OUTDATED]
 ==============================================
 
-The purpose of this project is to be a constantly updated repository of best practices in TDD (Test driven development) our Ember applications.
+The purpose of this project **was** to be a constantly updated repository of best practices in TDD (Test driven development) our Ember applications. (But I've since moved to Angular back in 2012)
 
-If anyone got a suggestion on how to test ember views, models, routes or controllers, please submit a pull request so we can build a better workflow for developing our ember apps.
+I created it because back then I didn't find any resource about Testing and Ember. 
 
-The libraries I use for this project are: [Requirejs](http://requirejs.org/) and [Jasmine](https://jasmine.github.io/). 
+So I keep it here for nostalgic purposes, feel free to move on to a more updated repo.
 
-## A note about the current version:  
- 
- It's not complete, it's not good as it should be, but it's a start, so please comment and suggest improvements as much as possible. 
