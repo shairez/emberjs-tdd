@@ -5,7 +5,7 @@ The purpose of this project is to be a constantly updated repository of best pra
 
 If anyone got a suggestion on how to test ember views, models, routes or controllers, please submit a pull request so we can build a better workflow for developing our ember apps.
 
-The libraries I use for this project are: [Requirejs](http://requirejs.org/) and [Jasmine](http://pivotal.github.com/jasmine/). 
+The libraries I use for this project are: [Requirejs](http://requirejs.org/) and [Jasmine](https://jasmine.github.io/). 
 
 ## A note about the current version:  
  
